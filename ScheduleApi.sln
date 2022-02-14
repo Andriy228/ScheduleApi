@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleApi", "ScheduleApi\ScheduleApi.csproj", "{16CB1A4D-CFB2-406D-930C-AAAAD3C768A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{264DAC09-4231-4532-86F6-28CEDBDE8C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CB1A4D-CFB2-406D-930C-AAAAD3C768A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CB1A4D-CFB2-406D-930C-AAAAD3C768A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CB1A4D-CFB2-406D-930C-AAAAD3C768A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CB1A4D-CFB2-406D-930C-AAAAD3C768A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264DAC09-4231-4532-86F6-28CEDBDE8C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264DAC09-4231-4532-86F6-28CEDBDE8C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264DAC09-4231-4532-86F6-28CEDBDE8C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264DAC09-4231-4532-86F6-28CEDBDE8C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C7FE6A5-8740-4564-8616-37C024BF1FF7}
+	EndGlobalSection
+EndGlobal
